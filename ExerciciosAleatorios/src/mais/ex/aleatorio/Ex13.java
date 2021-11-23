@@ -6,6 +6,8 @@ public class Ex13 {
 		System.out.println("Teste GIT java");
 
 		System.out.print("Teste do git histórico e revert");
+		
+		System.out.println("Porque não pode?");
 	}
 
 }
